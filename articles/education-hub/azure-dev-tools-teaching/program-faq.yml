@@ -60,6 +60,11 @@ sections:
           :::row-end:::
           
       - question: |
+          Can I use Windows 11 and Windows 10 VMs?
+        answer: |
+          Yes, as a benefit of your Azure for Students subscription on Azure, you may use Windows 10 and 11 Virtual Machines without the need for a Windows 11 Enterprise license.
+      
+      - question: |
           Can I get Azure for Students again next year?
         answer: |
           Yes!  You can renew your Azure for Students subscription after 1 year.  We will send you emails reminding you to renew just before your anniversary.  To renew, simply re-signup for the offer from the Azure for Students [website](https://aka.ms/azure4students)
